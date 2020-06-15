@@ -10,7 +10,7 @@ Good question. I spend way more time doing the math of how my grade will be affe
 It's extremely simple. Just input the amount of assignments you have and then put in your score for each of them. If you want to calcuate the affect of skipping an assignment, just instead of the 15 already graded assignments, put 16.
 
 ### How does the output look?
-`shithead@localhost:~/gradecheck$ python gradecheck.py 
+```shithead@localhost:~/gradecheck$ python gradecheck.py 
 To calculate how an assignment will affect your grade add 1 to the input
 Example: If you have 15 assignments not including the one you want to calculate enter 16
 How many assignments do you have? : 2
@@ -31,4 +31,4 @@ C- = 70-72%
 D+ = 67-69%
 D = 63-66%
 D- = 60-62%
-F = Below 60%`
+F = Below 60%```
