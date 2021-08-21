@@ -2,8 +2,8 @@
 # 14/6/2020 20:04 EST)
 
 '''
-I'm a lazy sack of shit so what this does is, instead of doing all
-the math, I can input my (earned score / attempted score) and see
+What this does is, instead of doing all the math, 
+I can input my (earned score / attempted score) and see
 how badly not doing an assignment will affect my grades. All the
 while, I also get to practice Python.
 '''
@@ -17,7 +17,7 @@ while assignments < 1:
     print("Really, do you even need to calculate this?")
     assignments = int(input("How many assignments do you have? : "))
 
-# initzialing (fancy word) variables
+# creating variables
 earned_total = 0.0
 attempted_total = 0.0
 
