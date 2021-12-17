@@ -11,7 +11,7 @@ It's extremely simple. Just input the amount of assignments you have and then pu
 
 ### How does the output look?
 ```
-shithead@localhost:~/gradecheck$ python gradecheck.py 
+sean1414@localhost:~/gradecheck$ python gradecheck.py 
 To calculate how an assignment will affect your grade add 1 to the input
 Example: If you have 15 assignments not including the one you want to calculate enter 16
 How many assignments do you have? : 2
