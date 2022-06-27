@@ -3,9 +3,8 @@
 
 '''
 What this does is, instead of doing all the math, 
-I can input my (earned score / attempted score) and see
-how badly not doing an assignment will affect my grades. All the
-while, I also get to practice Python.
+you can input your earned score and attempted score and see
+how an assignment will affect your grade. This was really just a project to learn Python with.
 '''
 # user inputs number of assignments
 print("To calculate how an assignment will affect your grade add 1 to the input")
