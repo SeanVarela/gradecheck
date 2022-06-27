@@ -4,10 +4,10 @@ A program I made allowing someone to check how much an assignment will affect th
 ## NOTE: I made this for personal use and I'm just putting it on GitHub so I can take it between my mom and dad's houses. 
 
 ### Why did you waste your time making this?
-Good question. I spend way more time doing the math of how my grade will be affected if I skip today's assignment than it takes to actually do the assignment. This program significantly cuts down on the time it takes to do the math. Also, it was good practice for Python and I hope to recreate this program in other languages as practice.
+Good question. This program significantly cuts down on the time it takes to do the math. Also, it was good practice for Python and I hope to recreate this program in other languages as practice.
 
 ### How does the program work?
-It's extremely simple. Just input the amount of assignments you have and then put in your score for each of them. If you want to calcuate the affect of skipping an assignment, just instead of the 15 already graded assignments, put 16.
+It's extremely simple. Just input the amount of assignments you have and then put in your score for each of them.
 
 ### How does the output look?
 ```
